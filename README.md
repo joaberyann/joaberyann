@@ -16,7 +16,7 @@ A tecnologia faz parte da minha vida desde muito cedo, e atualmente estou em fas
 </a>
 </div>
 
----
+#
 
 <!-- STATS (lado a lado) -->
 <div>
@@ -24,7 +24,7 @@ A tecnologia faz parte da minha vida desde muito cedo, e atualmente estou em fas
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaberyann&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="160"/>
 </div>
 
----
+#
 
 <!-- Tecnologias -->
 <img 
