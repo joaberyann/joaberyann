@@ -11,9 +11,9 @@ A tecnologia faz parte da minha vida desde muito cedo, e atualmente estou em fas
   <a href="https://discord.gg/JFcUVbNv" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
   </a>
-  <a href="mailto:joaberyann@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+ <a href="mailto:joaberyann@gmail.com?subject=Contato%20via%20GitHub&body=Olá%20Joabe,%20vi%20seu%20perfil%20no%20GitHub.">
+  <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 </div>
 
 ---
